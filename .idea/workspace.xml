@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lab006.py" afterDir="false" />
+    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="user input exercise">
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_29082024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_29082024/Lab006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724821990725</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="user input exercise">
+      <option name="closed" value="true" />
+      <created>1724935718676</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724935718676</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="user input exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="user input exercise" />
   </component>
 </project>
