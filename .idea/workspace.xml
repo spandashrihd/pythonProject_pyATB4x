@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="task of 13th August">
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/task#3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/task#4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/task#5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/task#6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="17th August Home work, Task#4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,12 +32,12 @@
     &quot;assignee&quot;: &quot;spandashrihd&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/spandashrihd/pythonProject_pyATB4x.git",
-    "accountId": "e2c4f4b2-cac2-4b72-98ac-817a68e9a384"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/spandashrihd/pythonProject_pyATB4x.git&quot;,
+    &quot;accountId&quot;: &quot;e2c4f4b2-cac2-4b72-98ac-817a68e9a384&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -50,23 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.task#4.executor": "Run",
-    "Python.task#5.executor": "Run",
-    "Python.task#6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/win10/PycharmProjects/pyATB4x_projects"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task#4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task#5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task#6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/win10/PycharmProjects/pythonProject_pyATB4x/.venv/Scripts/python.exe&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Lab006">
     <configuration name="Lab006" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject_pyATB4x" />
       <option name="ENV_FILES" value="" />
@@ -208,7 +212,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724936243499</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="17th August Home work, Task#3">
+      <option name="closed" value="true" />
+      <created>1724940372230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724940372230</updated>
+    </task>
+    <task id="LOCAL-00006" summary="17th August Home work, Task#3">
+      <option name="closed" value="true" />
+      <created>1724940539861</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724940539861</updated>
+    </task>
+    <task id="LOCAL-00007" summary="17th August Home work, Task#4">
+      <option name="closed" value="true" />
+      <created>1724940636692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724940636692</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +255,8 @@
     <MESSAGE value="user input exercise" />
     <MESSAGE value="python data types, operator exercise" />
     <MESSAGE value="task of 13th August" />
-    <option name="LAST_COMMIT_MESSAGE" value="task of 13th August" />
+    <MESSAGE value="17th August Home work, Task#3" />
+    <MESSAGE value="17th August Home work, Task#4" />
+    <option name="LAST_COMMIT_MESSAGE" value="17th August Home work, Task#4" />
   </component>
 </project>
