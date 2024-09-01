@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="17th August Home work, Task#4" />
+    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="all commits of 31st August">
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Task#7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="directory" />
-    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +63,14 @@
     &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task#7.executor&quot;: &quot;Run&quot;,
     &quot;Python.task#4.executor&quot;: &quot;Run&quot;,
     &quot;Python.task#5.executor&quot;: &quot;Run&quot;,
     &quot;Python.task#6.executor&quot;: &quot;Run&quot;,
@@ -257,6 +267,7 @@
     <MESSAGE value="task of 13th August" />
     <MESSAGE value="17th August Home work, Task#3" />
     <MESSAGE value="17th August Home work, Task#4" />
-    <option name="LAST_COMMIT_MESSAGE" value="17th August Home work, Task#4" />
+    <MESSAGE value="all commits of 31st August" />
+    <option name="LAST_COMMIT_MESSAGE" value="all commits of 31st August" />
   </component>
 </project>
