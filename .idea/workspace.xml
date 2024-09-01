@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="Leap Year Task#7">
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Task#7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="All commits of 1st September" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
