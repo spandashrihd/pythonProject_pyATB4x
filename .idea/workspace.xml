@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="All commits of 1st September" />
+    <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="All commits of 2nd September">
+      <change afterPath="$PROJECT_DIR$/src/ex_02092024/Class_Task#12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Class_Task#12.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
@@ -70,6 +74,36 @@
     &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab063.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#10.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#11.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#7.executor&quot;: &quot;Run&quot;,
@@ -80,10 +114,19 @@
     &quot;Python.task#6.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/win10/PycharmProjects/pythonProject_pyATB4x/.venv/Scripts/python.exe&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/win10/PycharmProjects/pythonProject_pyATB4x/src/ex_31082024&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\win10\PycharmProjects\pythonProject_pyATB4x\src\ex_31082024" />
+      <recent name="C:\Users\win10\PycharmProjects\pythonProject_pyATB4x\src\ex_30082024" />
+      <recent name="C:\Users\win10\PycharmProjects\pythonProject_pyATB4x\src\ex_29082024" />
+      <recent name="C:\Users\win10\PycharmProjects\pythonProject_pyATB4x\src\ex_28082024" />
+      <recent name="C:\Users\win10\PycharmProjects\pythonProject_pyATB4x\src\ex_02092024" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.Lab006">
     <configuration name="Lab006" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject_pyATB4x" />
@@ -266,7 +309,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725179649217</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="All commits of 1st September">
+      <option name="closed" value="true" />
+      <created>1725207230959</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725207230959</updated>
+    </task>
+    <task id="LOCAL-00011" summary="All commits of 2nd September">
+      <option name="closed" value="true" />
+      <created>1725290613004</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725290613004</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +348,8 @@
     <MESSAGE value="17th August Home work, Task#4" />
     <MESSAGE value="all commits of 31st August" />
     <MESSAGE value="Leap Year Task#7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leap Year Task#7" />
+    <MESSAGE value="All commits of 1st September" />
+    <MESSAGE value="All commits of 2nd September" />
+    <option name="LAST_COMMIT_MESSAGE" value="All commits of 2nd September" />
   </component>
 </project>
