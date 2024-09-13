@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5538ec4c-3b28-4220-b3a5-36249bd1861f" name="Changes" comment="All commits of 11th September">
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab083.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab084.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/ExcelReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/Lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/Lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/Lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/Mysqldbreader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/browser_package/Close_Browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/browser_package/Open_Browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12092024/browser_package/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Class_Task#12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Close_Browser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExcelReader.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
@@ -154,11 +156,16 @@
     &quot;Python.Lab099.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab101.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab104.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab106.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab107.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#10.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#11.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#7.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#8.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task#9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
     &quot;Python.task#4.executor&quot;: &quot;Run&quot;,
     &quot;Python.task#5.executor&quot;: &quot;Run&quot;,
     &quot;Python.task#6.executor&quot;: &quot;Run&quot;,
